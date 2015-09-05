@@ -57,6 +57,8 @@ cask install git
 cask install eclipse-java
 cask install java
 cask install adobe-reader
+cask install google-drive
+cask install appcleaner
 
 ## rcmdnk/file
 tap rcmdnk/file
