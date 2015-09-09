@@ -59,6 +59,7 @@ cask install java
 cask install adobe-reader
 cask install google-drive
 cask install appcleaner
+cask install firefox
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -76,6 +77,6 @@ install composer
 install zsh
 install gnuplot
 install app-engine-sava-sdk
-
+install git
 
 cleanup
