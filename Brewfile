@@ -53,13 +53,12 @@ cask install bettertouchtool
 cask install nosleep
 cask install sony-ericsson-bridge
 cask install xquartz
-cask install git
 cask install eclipse-java
 cask install java
 cask install adobe-reader
 cask install google-drive
 cask install appcleaner
-cask install firefox
+cask install texmaker
 
 ## rcmdnk/file
 tap rcmdnk/file
