@@ -59,6 +59,7 @@ cask install adobe-reader
 cask install google-drive
 cask install appcleaner
 cask install texmaker
+cask install mendeley-desktop
 
 ## rcmdnk/file
 tap rcmdnk/file
