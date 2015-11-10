@@ -4,79 +4,158 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-cask install iterm2
-cask install alfred
-cask install dash
-cask install skitch
-cask install evernote
-cask install dropbox
-cask install skype 
-cask install night-owl
-cask install sourcetree
-cask install mysqlworkbench
-cask install sequel-pro
-cask install firefox 
-cask install google-chrome
-cask install kobito
-cask install virtualbox
-cask install vagrant
-cask install sublime-text
-cask install phpstorm
-cask install eclipse-ide
-cask install cyberduck
-cask install google-japanese-ime
-cask install android-studio 
-cask install the-unarchiver
-cask install cheatsheet
-cask install imageoptim
-cask install speedlimit
-cask install colors 
-cask install sitesucker 
-cask install google-japanese-ime 
-cask install diskwave
-cask install duet
-cask install clipmenu
-cask install google-earth-pro
-cask install ltspice
-cask install macs-fan-control
-cask install magican
-cask install octave
-cask install r
-cask install rstudio
-cask install sage
-cask install mactex
-cask install vlc
-cask install xld
-cask install adobe-reader
-cask install aquaterm
-cask install bettertouchtool
-cask install nosleep
-cask install sony-ericsson-bridge
-cask install xquartz
-cask install eclipse-java
-cask install java
-cask install adobe-reader
-cask install google-drive
-cask install appcleaner
-cask install texmaker
-cask install mendeley-desktop
+cask adobe-reader
+cask alfred
+cask android-studio
+cask appcleaner
+cask aquaterm
+cask atom
+cask bettertouchtool
+cask betterzipql
+cask cheatsheet
+cask clipmenu
+cask colors
+cask cyberduck
+cask dash
+cask diskwave
+cask dropbox
+cask duet
+cask eclipse-ide
+cask eclipse-java
+cask evernote
+cask firefox
+cask flash-player
+cask git
+cask google-chrome
+cask google-drive
+cask google-earth-pro
+cask google-japanese-ime
+cask hipchat
+cask imageoptim
+cask intellij-idea-ce
+cask iterm2
+cask java
+cask kindle
+cask kobito
+cask libreoffice
+cask ltspice
+cask macs-fan-control
+cask mactex
+cask magican
+cask mendeley-desktop
+cask mysqlworkbench
+cask night-owl
+cask nosleep
+cask octave
+cask phpstorm
+cask pycharm-ce
+cask qlcolorcode
+cask qlmarkdown
+cask qlstephen
+cask quicklook-json
+cask r
+cask readcube
+cask rstudio
+cask rubymine
+cask sage
+cask sequel-pro
+cask sitesucker
+cask skitch
+cask skype
+cask slack
+cask sony-ericsson-bridge
+cask sourcetree
+cask speedlimit
+cask sublime-text
+cask texmaker
+cask the-unarchiver
+cask vagrant
+cask virtualbox
+cask vlc
+cask xld
+cask xquartz
+
+## caskroom/versions
+tap caskroom/versions
+cask firefox-ja
+cask java7
+
+## homebrew/binary
+tap homebrew/binary
+
+## homebrew/science
+tap homebrew/science
 
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
+## rcmdnk/rcmdnk-bak
+tap rcmdnk/rcmdnk-bak
 
-## Other Homebrew packages
-install --disable-etcdir zsh
-install vim
-install jq
-install curl
-install wget
-install dnsmasq
-install composer
-install zsh
-install gnuplot
-install app-engine-sava-sdk
-install git
+## sanemat/font
+tap sanemat/font
+brew ricty
 
-cleanup
+# Other Homebrew packages
+brew autoconf
+brew automake
+brew cairo
+brew cloog
+brew curl
+brew czmq
+brew fontconfig
+brew fontforge
+brew freetype
+brew gcc
+brew gd
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew gmp
+brew gnuplot
+brew gobject-introspection
+brew gradle
+brew harfbuzz
+brew icu4c
+brew isl
+brew jpeg
+brew jsvc
+brew libevent
+brew libffi
+brew libmpc
+brew libpng
+brew libsodium
+brew libtiff
+brew libtool
+brew lua
+brew lzo
+brew lzop
+brew maven
+brew mpfr
+brew mysql
+brew nkf
+brew openssl
+brew p7zip
+brew pango
+brew pixman
+brew pkg-config
+brew readline
+brew zeromq
+
+# App Store applications
+appstore ActivityTimer
+appstore BatteryHero
+appstore Disk Diag
+appstore FreeMan
+appstore Install OS X Yosemite
+appstore Keynote
+appstore Kiritori
+appstore LINE
+appstore Numbers
+appstore OneDrive
+appstore Pages
+appstore Pocket
+appstore Shade 3D for Unity
+appstore Xcode
