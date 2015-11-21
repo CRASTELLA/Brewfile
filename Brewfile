@@ -103,6 +103,7 @@ brew ricty
 # Other Homebrew packages
 brew autoconf
 brew automake
+brew boost
 brew cairo
 brew cloog
 brew curl
@@ -117,7 +118,7 @@ brew gettext
 brew git
 brew glib
 brew gmp
-brew gnuplot
+brew gnuplot --with-aquaterm --with-x11
 brew gobject-introspection
 brew gradle
 brew harfbuzz
