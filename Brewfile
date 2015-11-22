@@ -15,6 +15,7 @@ cask betterzipql
 cask cheatsheet
 cask clipmenu
 cask colors
+cask coteditor
 cask cyberduck
 cask dash
 cask diskwave
