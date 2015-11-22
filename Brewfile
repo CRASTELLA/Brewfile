@@ -36,6 +36,7 @@ cask imageoptim
 cask intellij-idea-ce
 cask iterm2
 cask java
+cask karabiner
 cask kindle
 cask kobito
 cask libreoffice
