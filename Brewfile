@@ -88,9 +88,6 @@ tap homebrew/binary
 ## homebrew/science
 tap homebrew/science
 
-## homebrew/science
-tap homebrew/science
-
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
