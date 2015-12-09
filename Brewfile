@@ -126,6 +126,7 @@ brew gradle
 brew harfbuzz
 brew icu4c
 brew isl
+brew ImageMagick
 brew jpeg
 brew jsvc
 brew libevent
