@@ -125,8 +125,8 @@ brew gobject-introspection
 brew gradle
 brew harfbuzz
 brew icu4c
+brew imagemagick
 brew isl
-brew ImageMagick
 brew jpeg
 brew jsvc
 brew libevent
@@ -149,6 +149,7 @@ brew pango
 brew pixman
 brew pkg-config
 brew readline
+brew xz
 brew zeromq
 
 # App Store applications
