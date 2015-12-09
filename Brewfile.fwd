@@ -87,6 +87,12 @@ brew brew-file
 ## rcmdnk/rcmdnk-bak
 tap rcmdnk/rcmdnk-bak
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask firefox-ja (!)
+#cask java7 (!)
+
 # App Store applications
 appstore ActivityTimer
 appstore BatteryHero
