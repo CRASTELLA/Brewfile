@@ -77,17 +77,6 @@ cask vlc
 cask xld
 cask xquartz
 
-## caskroom/versions
-tap caskroom/versions
-cask firefox-ja
-cask java7
-
-## homebrew/binary
-tap homebrew/binary
-
-## homebrew/science
-tap homebrew/science
-
 ## homebrew/science
 tap homebrew/science
 
@@ -98,59 +87,11 @@ brew brew-file
 ## rcmdnk/rcmdnk-bak
 tap rcmdnk/rcmdnk-bak
 
-## sanemat/font
-tap sanemat/font
-brew ricty
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
 
-# Other Homebrew packages
-brew autoconf
-brew automake
-brew boost
-brew cairo
-brew cloog
-brew curl
-brew czmq
-brew fontconfig
-brew fontforge
-brew freetype
-brew gcc
-brew gd
-brew gdbm
-brew gettext
-brew git
-brew glib
-brew gmp
-brew gnuplot --with-aquaterm --with-x11
-brew gobject-introspection
-brew gradle
-brew harfbuzz
-brew icu4c
-brew imagemagick
-brew isl
-brew jpeg
-brew jsvc
-brew libevent
-brew libffi
-brew libmpc
-brew libpng
-brew libsodium
-brew libtiff
-brew libtool
-brew lua
-brew lzo
-brew lzop
-brew maven
-brew mpfr
-brew mysql
-brew nkf
-brew openssl
-brew p7zip
-brew pango
-brew pixman
-brew pkg-config
-brew readline
-brew xz
-brew zeromq
+#cask firefox-ja (!)
+#cask java7 (!)
 
 # App Store applications
 appstore ActivityTimer
